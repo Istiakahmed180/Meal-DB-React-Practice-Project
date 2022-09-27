@@ -1,0 +1,18 @@
+.nav {
+  background-color: #23180d;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 19px 112px 19px 112px;
+}
+.nav a {
+  text-decoration: none;
+  color: white;
+  margin-right: 32px;
+  font-size: 17px;
+  font-weight: 500;
+  transition: all ease 0.2s;
+}
+.nav a:hover {
+  color: orange;
+}
